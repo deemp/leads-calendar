@@ -1,3 +1,4 @@
 # Summary
 
-- [Documentation](./documentation.md)
+- [Site](./site-docs.md)
+- [Technical Documentation](./technical-docs.md)
